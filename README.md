@@ -50,7 +50,7 @@ It is developed using **Streamlit** and integrates with APIs like **Google Trans
 Ensure you have the following packages installed:
 
 ```bash
-pip install streamlit requests PyPDF2 speechrecognition deep-translator gtts pydub google-generativeai
+pip install -r requirements.txt
 ```
 
 You will also need:
